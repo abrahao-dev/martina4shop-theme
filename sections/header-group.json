@@ -53,10 +53,7 @@
     },
     "header": {
       "type": "header",
-      "custom_css": [
-        ".navigation-drawer {color: #000000 !important;}",
-        ".navigation-drawer a,.navigation-drawer span,.navigation-drawer .reversed-link {color: #000000 !important;}"
-      ],
+      "custom_css": [],
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
