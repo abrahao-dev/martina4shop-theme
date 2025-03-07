@@ -63,7 +63,14 @@
     "favicon": "shopify://shop_images/logo-minimalista.png",
     "checkout_accent_color": "#f0c417",
     "checkout_button_color": "#1a1a1a",
-    "content_for_index": []
+    "content_for_index": [],
+    "blocks": {
+      "8329602812678528339": {
+        "type": "shopify://apps/bk-reviews/blocks/bk-reviews-embed/592f39b6-a0c6-4829-a095-8e5558e58026",
+        "disabled": false,
+        "settings": {}
+      }
+    }
   },
   "presets": {
     "Sound": {
