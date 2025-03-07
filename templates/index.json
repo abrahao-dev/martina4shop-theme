@@ -1107,8 +1107,8 @@
         "1664424181b38582d5-0": {
           "type": "item",
           "settings": {
-            "title": "+ de 11.500",
-            "subheading": "Clientes satisfeitos desde 2021",
+            "title": "+ de 2.000",
+            "subheading": "Clientes satisfeitos desde 2024",
             "content": "",
             "button_text": "",
             "button_url": "",
@@ -1129,9 +1129,9 @@
         "impact_text_size_ratio": 1,
         "background": "",
         "background_gradient": "",
-        "heading_text_color": "#2c3e50",
-        "heading_gradient": "linear-gradient(180deg, rgba(44, 62, 80, 1), rgba(26, 26, 26, 0) 100%)",
-        "text_color": "#2c3e50",
+        "heading_text_color": "#ffffff",
+        "heading_gradient": "linear-gradient(180deg, rgba(181, 27, 27, 1), rgba(26, 26, 26, 0) 100%)",
+        "text_color": "#ffffff",
         "button_background": "",
         "button_text_color": ""
       }
