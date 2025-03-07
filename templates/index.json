@@ -45,7 +45,7 @@
         "transition_type": "fade_with_text",
         "autoplay": true,
         "cycle_speed": 6,
-        "background": "#2c3e50",
+        "background": "#b53319",
         "background_gradient": "linear-gradient(60deg, rgba(NaN, NaN, NaN, 0), rgba(23, 29, 33, 1) 98%)"
       }
     },
