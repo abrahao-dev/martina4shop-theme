@@ -54,8 +54,8 @@
     "header": {
       "type": "header",
       "custom_css": [
-        "navigation-drawer {color: black !important; }",
-        " navigation-drawer a, navigation-drawer span, navigation-drawer .reversed-link {color: black !important; }"
+        ".navigation-drawer {color: #000000 !important;}",
+        ".navigation-drawer a,.navigation-drawer span,.navigation-drawer .reversed-link {color: #000000 !important;}"
       ],
       "settings": {
         "enable_sticky": true,
