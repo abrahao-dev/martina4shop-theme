@@ -54,8 +54,8 @@
     "header": {
       "type": "header",
       "custom_css": [
-        ".reversed-link {font-color: #00000;}",
-        "#reversed-link {font-color: #00000;}"
+        ".reversed-link {color: black;}",
+        "#reversed-link {color: black;}"
       ],
       "settings": {
         "enable_sticky": true,
