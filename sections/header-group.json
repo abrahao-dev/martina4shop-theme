@@ -54,7 +54,8 @@
     "header": {
       "type": "header",
       "custom_css": [
-        ".v-stack gap-4 {font-color: #00000;}"
+        ".reversed-link {font-color: #00000;}",
+        "#reversed-link {font-color: #00000;}"
       ],
       "settings": {
         "enable_sticky": true,
