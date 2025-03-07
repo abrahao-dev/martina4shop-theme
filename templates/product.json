@@ -80,7 +80,7 @@
         "description"
       ],
       "custom_css": [
-        ".button.button.button--xl {background-color: green;}"
+        ".button.button.button--xl, .button.button.button--secondary {background-color: green;}"
       ],
       "settings": {
         "full_width": true,
