@@ -53,6 +53,18 @@
     "image_link_blocks_UeQLWF": {
       "type": "image-link-blocks",
       "blocks": {
+        "item_ckHtXe": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
         "item_AJQ9KN": {
           "type": "item",
           "settings": {
@@ -65,37 +77,12 @@
             "overlay_opacity": 0
           }
         },
-        "item_Bm3EEg": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "shopify://collections/comme-des-garcons-play",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
         "item_mrEidy": {
           "type": "item",
           "settings": {
             "stretch_image": true,
             "link_text": "",
             "link_url": "shopify://collections/off-white",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_BVHX4d": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "shopify://collections/shorts",
             "background": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
@@ -125,97 +112,18 @@
             "overlay_color": "#000000",
             "overlay_opacity": 0
           }
-        },
-        "item_UhXfBq": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "shopify://collections/porta-cartoes",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_CX3zHN": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "shopify://collections/bottega-veneta",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_7fFYzE": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_ENCGzQ": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "shopify://collections/loro-piana",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_JcLkdB": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "shopify://collections/yeezy",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_ynTik9": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "shopify://collections/all-saints",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
         }
       },
       "block_order": [
+        "item_ckHtXe",
         "item_AJQ9KN",
-        "item_Bm3EEg",
         "item_mrEidy",
-        "item_BVHX4d",
         "item_LWLcm6",
-        "item_88pcrw",
-        "item_UhXfBq",
-        "item_CX3zHN",
-        "item_7fFYzE",
-        "item_ENCGzQ",
-        "item_JcLkdB",
-        "item_ynTik9"
+        "item_88pcrw"
       ],
       "settings": {
         "full_width": true,
-        "block_size": "small",
+        "block_size": "medium",
         "subheading": "",
         "title": "",
         "content": "",
