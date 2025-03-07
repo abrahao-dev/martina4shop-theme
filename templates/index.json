@@ -1,1 +1,1217 @@
-{"sections":{"slideshow":{"type":"slideshow","blocks":{"c25a6724-d8ea-4c86-94a2-063c38bbef07":{"type":"image","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/black-desktop.png","mobile_image":"shopify:\/\/shop_images\/banner-mobile_a8f0dc0c-4488-43cd-8556-b5b51629d775.png","content_max_width":780,"mobile_text_position":"place-self-center text-center","desktop_text_position":"sm:place-self-center sm:text-center","subheading":"","title":"","heading_tag":"h0","button_text":"","button_link":"","text_color":"#ffffff","button_background":"#ffffff","button_text_color":"#000000","overlay_color":"#000000","overlay_opacity":0,"background":"","background_gradient":"linear-gradient(180deg, rgba(0, 0, 0, 1) 35%, rgba(66, 66, 66, 1) 58.273%, rgba(190, 190, 190, 1) 100%)"}},"image_CRzAqF":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/4_9b248c13-64de-4495-86d5-fd876fe694a9.png","mobile_image":"shopify:\/\/shop_images\/9.png","content_max_width":780,"mobile_text_position":"place-self-center text-center","desktop_text_position":"sm:place-self-center sm:text-center","subheading":"","title":"","heading_tag":"h0","button_text":"","button_link":"","text_color":"#ffffff","button_background":"#ffffff","button_text_color":"#000000","overlay_color":"#000000","overlay_opacity":0,"background":"rgba(0,0,0,0)","background_gradient":"linear-gradient(350deg, rgba(123, 130, 88, 1) 4%, rgba(65, 92, 110, 1) 61%)"}},"slide-1":{"type":"image","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/banner-desktop-carnaval.png","mobile_image":"shopify:\/\/shop_images\/banner-mobile-carnaval.png","content_max_width":780,"mobile_text_position":"place-self-center text-center","desktop_text_position":"sm:place-self-center sm:text-center","subheading":"","title":"","heading_tag":"h0","button_text":"","button_link":"","text_color":"#ffffff","button_background":"#ffffff","button_text_color":"#000000","overlay_color":"#000000","overlay_opacity":0,"background":"rgba(0,0,0,0)","background_gradient":"linear-gradient(350deg, rgba(106, 124, 149, 1) 4%, rgba(65, 92, 110, 1) 61%)"}},"image_LVEjED":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/banner-birkenstock-desktop.png","mobile_image":"shopify:\/\/shop_images\/banner-birkenstock-mobile.png","content_max_width":780,"mobile_text_position":"place-self-center text-center","desktop_text_position":"sm:place-self-center sm:text-center","subheading":"","title":"","heading_tag":"h0","button_text":"","button_link":"","text_color":"#ffffff","button_background":"#ffffff","button_text_color":"#000000","overlay_color":"#000000","overlay_opacity":0,"background":"rgba(0,0,0,0)","background_gradient":"linear-gradient(180deg, rgba(44, 62, 80, 1) 14%, rgba(240, 241, 239, 1) 82%)"}},"image_KNwgPT":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/replicate-prediction-n6bch2zbc3cyyfl3rbymj2w57y.png","mobile_image":"shopify:\/\/shop_images\/Old_Money.png","content_max_width":780,"mobile_text_position":"place-self-center text-center","desktop_text_position":"sm:place-self-center sm:text-center","subheading":"","title":"","heading_tag":"h0","button_text":"","button_link":"","text_color":"#ffffff","button_background":"#ffffff","button_text_color":"#000000","overlay_color":"#000000","overlay_opacity":0,"background":"rgba(0,0,0,0)","background_gradient":"linear-gradient(0deg, rgba(167, 190, 214, 1) 4%, rgba(11, 57, 106, 1) 58%)"}}},"block_order":["c25a6724-d8ea-4c86-94a2-063c38bbef07","image_CRzAqF","slide-1","image_LVEjED","image_KNwgPT"],"custom_css":[],"settings":{"full_width":false,"allow_transparent_header":true,"image_size":"auto","controls_type":"dots","transition_type":"fade_with_text","autoplay":true,"cycle_speed":6,"background":"#2c3e50","background_gradient":"linear-gradient(60deg, rgba(NaN, NaN, NaN, 0), rgba(23, 29, 33, 1) 98%)"}},"image_link_blocks_UeQLWF":{"type":"image-link-blocks","blocks":{"item_AJQ9KN":{"type":"item","settings":{"image":"shopify:\/\/shop_images\/12_60584def-006b-4c58-b6d1-baf3ffabe79e.png","stretch_image":true,"link_text":"","link_url":"shopify:\/\/collections\/ralph-lauren","background":"","text_color":"#ffffff","overlay_color":"#000000","overlay_opacity":0}},"item_Bm3EEg":{"type":"item","settings":{"image":"shopify:\/\/shop_images\/11_7eb8c536-ad1e-4cc7-add5-1d930aaeef76.png","stretch_image":true,"link_text":"","link_url":"shopify:\/\/collections\/comme-des-garcons-play","background":"","text_color":"#ffffff","overlay_color":"#000000","overlay_opacity":0}},"item_mrEidy":{"type":"item","settings":{"image":"shopify:\/\/shop_images\/10_ee6b6b3e-5e2c-45ea-b8f5-bb8cb545ed2c.png","stretch_image":true,"link_text":"","link_url":"shopify:\/\/collections\/off-white","background":"","text_color":"#ffffff","overlay_color":"#000000","overlay_opacity":0}},"item_BVHX4d":{"type":"item","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/9_f1cbc703-83c4-46bc-97a5-b9f527dd8130.png","stretch_image":true,"link_text":"","link_url":"shopify:\/\/collections\/shorts","background":"","text_color":"#ffffff","overlay_color":"#000000","overlay_opacity":0}},"item_LWLcm6":{"type":"item","settings":{"image":"shopify:\/\/shop_images\/8_fe41818e-6e17-4a0c-9ddb-851c4d9aa316.png","stretch_image":true,"link_text":"","link_url":"shopify:\/\/collections\/birkenstock","background":"","text_color":"#ffffff","overlay_color":"#000000","overlay_opacity":0}},"item_88pcrw":{"type":"item","settings":{"image":"shopify:\/\/shop_images\/7_398cbedf-4998-4d06-9b41-ffff2f02deeb.png","stretch_image":true,"link_text":"","link_url":"shopify:\/\/collections\/yves-saint-laurent","background":"","text_color":"#ffffff","overlay_color":"#000000","overlay_opacity":0}},"item_UhXfBq":{"type":"item","settings":{"image":"shopify:\/\/shop_images\/6_a35d38a3-6420-4ab5-aea9-10ad69b0d0b3.png","stretch_image":true,"link_text":"","link_url":"shopify:\/\/collections\/porta-cartoes","background":"","text_color":"#ffffff","overlay_color":"#000000","overlay_opacity":0}},"item_CX3zHN":{"type":"item","settings":{"image":"shopify:\/\/shop_images\/1_bbea85a1-b700-4c22-ba69-82bfea5aa3a4.png","stretch_image":true,"link_text":"","link_url":"shopify:\/\/collections\/bottega-veneta","background":"","text_color":"#ffffff","overlay_color":"#000000","overlay_opacity":0}},"item_7fFYzE":{"type":"item","settings":{"image":"shopify:\/\/shop_images\/5_a21c6b3a-23bb-45ac-a795-79a9f4ae1f90.png","stretch_image":true,"link_text":"","link_url":"","background":"","text_color":"#ffffff","overlay_color":"#000000","overlay_opacity":0}},"item_ENCGzQ":{"type":"item","settings":{"image":"shopify:\/\/shop_images\/3_4ae8e5a0-7c0b-401c-aa80-26fa4cfbb1bc.png","stretch_image":true,"link_text":"","link_url":"shopify:\/\/collections\/loro-piana","background":"","text_color":"#ffffff","overlay_color":"#000000","overlay_opacity":0}},"item_JcLkdB":{"type":"item","settings":{"image":"shopify:\/\/shop_images\/4_f1382ade-fb47-4857-b91d-1eae0a2f2f9c.png","stretch_image":true,"link_text":"","link_url":"shopify:\/\/collections\/yeezy","background":"","text_color":"#ffffff","overlay_color":"#000000","overlay_opacity":0}},"item_ynTik9":{"type":"item","settings":{"image":"shopify:\/\/shop_images\/2_c3a058f8-3934-42b0-a413-dfaac5f9d64b.png","stretch_image":true,"link_text":"","link_url":"shopify:\/\/collections\/all-saints","background":"","text_color":"#ffffff","overlay_color":"#000000","overlay_opacity":0}}},"block_order":["item_AJQ9KN","item_Bm3EEg","item_mrEidy","item_BVHX4d","item_LWLcm6","item_88pcrw","item_UhXfBq","item_CX3zHN","item_7fFYzE","item_ENCGzQ","item_JcLkdB","item_ynTik9"],"settings":{"full_width":true,"block_size":"small","subheading":"","title":"Compre por marca","content":"","link_url":"","link_text":"","background":"","background_gradient":"","text_color":"","heading_color":"","heading_gradient":""}},"featured_collection_3cg9wb":{"type":"featured-collection","settings":{"collection":"","products":["birkenstock-sandalia-flat-arizona-black","bone-boston-red-sox-47brand-azul-marinho","oculos-martin","relogio-poedagar","tenis-yeezy-350-v2-blue-tint","shorts-masculino-de-praia-vilebrequin-2"],"full_width":true,"stack_products":false,"show_progress_bar":false,"products_count":6,"products_per_row_mobile":"2","products_per_row_desktop":5,"subheading":"","title":"Mais vendidos","content":"","link_url":"shopify:\/\/collections\/all","link_text":"Ver todos","background":"","background_gradient":"","text_color":"","heading_color":"","heading_gradient":"","product_card_background":"","product_card_text_color":""}},"featured_product_Tzzzhq":{"type":"featured-product","blocks":{"title_d3Xk8n":{"type":"title","settings":{"heading_tag":"h2"}},"badges_qxcdg7":{"type":"badges","settings":{}},"price_GKMKB7":{"type":"price","settings":{"show_taxes_notice":false}},"rating_LAT88b":{"type":"rating","settings":{"show_empty":false}},"separator_TYMwP9":{"type":"separator","settings":{}},"buy_buttons_DJgUT9":{"type":"buy_buttons","settings":{"show_payment_button":false,"show_gift_card_recipient":true,"atc_button_background":"","atc_button_text_color":"","payment_button_background":"","payment_button_text_color":""}},"variant_picker_eAec8U":{"type":"variant_picker","settings":{"hide_sold_out_variants":false,"stack_blocks":true,"selector_mode":"block","color_mode":"block","size_chart_page":""}}},"block_order":["title_d3Xk8n","badges_qxcdg7","price_GKMKB7","rating_LAT88b","separator_TYMwP9","buy_buttons_DJgUT9","variant_picker_eAec8U"],"settings":{"full_width":true,"product":"moletom-denim-tears-preto-flores-brancas","desktop_media_width":55,"desktop_media_layout":"carousel_thumbnails_left","mobile_media_size":"expanded","mobile_carousel_control":"floating_dots","enable_video_autoplay":true,"enable_video_looping":false,"enable_image_zoom":true,"max_image_zoom_level":3,"background":"","background_gradient":"","text_color":"","input_background":"rgba(0,0,0,0)","input_text_color":""}},"media_with_text_7UhxY7":{"type":"media-with-text","blocks":{"image_n3VFAP":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/IMG_2403.jpg","media_width":50,"media_position":"start","text_position":"place-self-center text-center","icon":"picto-coupon","icon_width":48,"subheading":"","title":"Descubra nossas Camisetas CDG!","content":"<p>Veja nossas Camisetas CDG, feitas com materiais premium e design exclusivo. Navegue em nosso site e encontre o estilo que mais combina com você. <strong>Frete Grátis em todo o Brasil<\/strong>. Explore o<em> Old Money<\/em> agora mesmo!<\/p>","link_text":"Ver Coleção","link_url":"shopify:\/\/collections\/comme-des-garcons-play","background":"#2c3e50","background_gradient":"","text_color":"#ffffff","text_gradient":"","button_background":"","button_text_color":""}}},"block_order":["image_n3VFAP"],"settings":{"full_width":false,"spacing":"small"}},"featured_product_wrtdeJ":{"type":"featured-product","blocks":{"title_LgBYrR":{"type":"title","settings":{"heading_tag":"h2"}},"badges_h73HP3":{"type":"badges","settings":{}},"price_bpr6km":{"type":"price","settings":{"show_taxes_notice":false}},"rating_KN9dpf":{"type":"rating","settings":{"show_empty":false}},"separator_JDM6ak":{"type":"separator","settings":{}},"buy_buttons_rynP3b":{"type":"buy_buttons","settings":{"show_payment_button":false,"show_gift_card_recipient":true,"atc_button_background":"","atc_button_text_color":"","payment_button_background":"","payment_button_text_color":""}},"variant_picker_rCmUYA":{"type":"variant_picker","settings":{"hide_sold_out_variants":false,"stack_blocks":true,"selector_mode":"block","color_mode":"block","size_chart_page":""}}},"block_order":["title_LgBYrR","badges_h73HP3","price_bpr6km","rating_KN9dpf","separator_JDM6ak","buy_buttons_rynP3b","variant_picker_rCmUYA"],"settings":{"full_width":true,"product":"camiseta-comme-des-garcons-play-camiseta-com-patch-de-logo","desktop_media_width":55,"desktop_media_layout":"carousel_thumbnails_left","mobile_media_size":"expanded","mobile_carousel_control":"floating_dots","enable_video_autoplay":true,"enable_video_looping":false,"enable_image_zoom":true,"max_image_zoom_level":3,"background":"","background_gradient":"","text_color":"","input_background":"rgba(0,0,0,0)","input_text_color":""}},"featured_collection_dMxMet":{"type":"featured-collection","settings":{"collection":"comme-des-garcons-play","products":[],"full_width":true,"stack_products":false,"show_progress_bar":false,"products_count":10,"products_per_row_mobile":"2","products_per_row_desktop":5,"subheading":"","title":"Coleção CDG","content":"","link_url":"shopify:\/\/collections\/comme-des-garcons-play","link_text":"Ver todos","background":"","background_gradient":"","text_color":"","heading_color":"","heading_gradient":"","product_card_background":"","product_card_text_color":""}},"media_with_text_qjXpAi":{"type":"media-with-text","blocks":{"image_CEXVTm":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/banner-mobile.png","media_width":50,"media_position":"start","text_position":"place-self-center text-center","icon":"picto-coupon","icon_width":48,"subheading":"","title":"Coleção Tennis Club!","content":"<p>Descubra a coleção <strong>Tennis Club<\/strong> na Martin, com roupas e tênis de alta qualidade para quem busca estilo e desempenho. Confeccionadas com materiais premium, essas peças atemporais são perfeitas para tenistas e amantes de um visual sofisticado.<\/p><p>Navegue pelo nosso site e encontre o modelo ideal para você. Aproveite o Frete Grátis em todo o Brasil e explore a coleção <strong>Tennis Club<\/strong> agora mesmo!<\/p>","link_text":"Ver Coleção","link_url":"shopify:\/\/collections\/tennis-club","background":"#2c3e50","background_gradient":"","text_color":"#ffffff","text_gradient":"","button_background":"","button_text_color":""}}},"block_order":["image_CEXVTm"],"settings":{"full_width":false,"spacing":"small"}},"featured_product_rkzyzE":{"type":"featured-product","blocks":{"title_kH346f":{"type":"title","settings":{"heading_tag":"h2"}},"badges_RbHbbP":{"type":"badges","settings":{}},"price_88DR8V":{"type":"price","settings":{"show_taxes_notice":false}},"rating_WE3cKf":{"type":"rating","settings":{"show_empty":false}},"separator_qywfGT":{"type":"separator","settings":{}},"buy_buttons_gW3wUK":{"type":"buy_buttons","settings":{"show_payment_button":false,"show_gift_card_recipient":true,"atc_button_background":"","atc_button_text_color":"","payment_button_background":"","payment_button_text_color":""}},"variant_picker_Qxyijr":{"type":"variant_picker","settings":{"hide_sold_out_variants":false,"stack_blocks":true,"selector_mode":"block","color_mode":"block","size_chart_page":""}}},"block_order":["title_kH346f","badges_RbHbbP","price_88DR8V","rating_WE3cKf","separator_qywfGT","buy_buttons_gW3wUK","variant_picker_Qxyijr"],"settings":{"full_width":true,"product":"tenis-off-white-vulcanized-canvas","desktop_media_width":55,"desktop_media_layout":"carousel_thumbnails_left","mobile_media_size":"expanded","mobile_carousel_control":"floating_dots","enable_video_autoplay":true,"enable_video_looping":false,"enable_image_zoom":true,"max_image_zoom_level":3,"background":"","background_gradient":"","text_color":"","input_background":"rgba(0,0,0,0)","input_text_color":""}},"featured_collection_Gq6bKk":{"type":"featured-collection","settings":{"collection":"off-white","products":[],"full_width":true,"stack_products":false,"show_progress_bar":false,"products_count":10,"products_per_row_mobile":"2","products_per_row_desktop":5,"subheading":"","title":"Coleção Off White","content":"","link_url":"shopify:\/\/collections\/tennis-club","link_text":"Ver todos","background":"","background_gradient":"","text_color":"","heading_color":"","heading_gradient":"","product_card_background":"","product_card_text_color":""}},"featured_product_zT77PN":{"type":"featured-product","blocks":{"title_QfKX7B":{"type":"title","settings":{"heading_tag":"h2"}},"badges_NhLYgd":{"type":"badges","settings":{}},"price_7TXi8N":{"type":"price","settings":{"show_taxes_notice":false}},"rating_yNxXny":{"type":"rating","settings":{"show_empty":false}},"separator_drMy4X":{"type":"separator","settings":{}},"buy_buttons_ajn9gV":{"type":"buy_buttons","settings":{"show_payment_button":false,"show_gift_card_recipient":true,"atc_button_background":"","atc_button_text_color":"","payment_button_background":"","payment_button_text_color":""}},"variant_picker_G8p7wC":{"type":"variant_picker","settings":{"hide_sold_out_variants":false,"stack_blocks":true,"selector_mode":"block","color_mode":"block","size_chart_page":""}}},"block_order":["title_QfKX7B","badges_NhLYgd","price_7TXi8N","rating_yNxXny","separator_drMy4X","buy_buttons_ajn9gV","variant_picker_G8p7wC"],"settings":{"full_width":true,"product":"tenis-zegna-triple-stitch-navy-grey","desktop_media_width":55,"desktop_media_layout":"carousel_thumbnails_left","mobile_media_size":"expanded","mobile_carousel_control":"floating_dots","enable_video_autoplay":true,"enable_video_looping":false,"enable_image_zoom":true,"max_image_zoom_level":3,"background":"","background_gradient":"","text_color":"","input_background":"rgba(0,0,0,0)","input_text_color":""}},"featured_collection_3WddJ9":{"type":"featured-collection","settings":{"collection":"zegna","products":[],"full_width":true,"stack_products":false,"show_progress_bar":false,"products_count":10,"products_per_row_mobile":"2","products_per_row_desktop":5,"subheading":"","title":"Coleção Zegna","content":"","link_url":"shopify:\/\/collections\/zegna","link_text":"Ver todos","background":"","background_gradient":"","text_color":"","heading_color":"","heading_gradient":"","product_card_background":"","product_card_text_color":""}},"scrolling-text":{"type":"scrolling-text","settings":{"full_width":true,"text":"Fusão entre luxo e elegância","text_size":"large","text_style":"fill","scrolling_mode":"auto","scrolling_speed":5,"background":"","background_gradient":"","text_color":"#6a7c95","text_gradient":""}},"media_with_text_7XAAGM":{"type":"media-with-text","blocks":{"image_43h9QA":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/banner-mobile.png","media_width":50,"media_position":"start","text_position":"place-self-center text-center","icon":"picto-coupon","icon_width":48,"subheading":"","title":"Pouco De Nós","content":"<p>Criado com atenção às suas demandas, priorizando satisfação e confiança. Entregamos produtos de máxima qualidade com excelência e segurança, para atender ao seu estilo de vida com um toque de sofisticação.<\/p><p><em><strong>Quer saber mais sobre nós e nossa loja?<\/strong><\/em><br\/>Clique no botão abaixo<\/p>","link_text":"Ver Coleção","link_url":"shopify:\/\/collections","background":"#2c3e50","background_gradient":"","text_color":"#ffffff","text_gradient":"","button_background":"","button_text_color":""}}},"block_order":["image_43h9QA"],"settings":{"full_width":false,"spacing":"small"}},"featured-collection":{"type":"featured-collection","settings":{"collection":"","products":["oculos-martin","relogio-poedagar","camiseta-sporty-rich-healthy-and-wellness","pulseira-de-corda-braccialetto","bone-de-algodao-us-polo","bracelete-classe-ajustavel"],"full_width":true,"stack_products":false,"show_progress_bar":false,"products_count":6,"products_per_row_mobile":"2","products_per_row_desktop":5,"subheading":"","title":"Coleção Martin","content":"","link_url":"","link_text":"Ver todos","background":"","background_gradient":"","text_color":"","heading_color":"","heading_gradient":"","product_card_background":"","product_card_text_color":""}},"featured_product_TCfw8X":{"type":"featured-product","blocks":{"title_EWRUA6":{"type":"title","settings":{"heading_tag":"h2"}},"badges_fX37BL":{"type":"badges","settings":{}},"price_QWTykn":{"type":"price","settings":{"show_taxes_notice":false}},"rating_UfU8nE":{"type":"rating","settings":{"show_empty":false}},"separator_ALrrGQ":{"type":"separator","settings":{}},"buy_buttons_Agzrqe":{"type":"buy_buttons","settings":{"show_payment_button":false,"show_gift_card_recipient":true,"atc_button_background":"","atc_button_text_color":"","payment_button_background":"","payment_button_text_color":""}},"variant_picker_gneVb8":{"type":"variant_picker","settings":{"hide_sold_out_variants":false,"stack_blocks":true,"selector_mode":"block","color_mode":"block","size_chart_page":""}}},"block_order":["title_EWRUA6","badges_fX37BL","price_QWTykn","rating_UfU8nE","separator_ALrrGQ","buy_buttons_Agzrqe","variant_picker_gneVb8"],"settings":{"full_width":true,"product":"birkenstock-sandalia-flat-arizona-black","desktop_media_width":55,"desktop_media_layout":"carousel_thumbnails_left","mobile_media_size":"expanded","mobile_carousel_control":"floating_dots","enable_video_autoplay":true,"enable_video_looping":false,"enable_image_zoom":true,"max_image_zoom_level":3,"background":"","background_gradient":"","text_color":"","input_background":"rgba(0,0,0,0)","input_text_color":""}},"featured_collection_KUGzpq":{"type":"featured-collection","settings":{"collection":"birkenstock","products":[],"full_width":true,"stack_products":false,"show_progress_bar":false,"products_count":10,"products_per_row_mobile":"2","products_per_row_desktop":5,"subheading":"","title":"Coleção Birkenstock","content":"","link_url":"shopify:\/\/collections\/birkenstock","link_text":"Ver todos","background":"","background_gradient":"","text_color":"","heading_color":"","heading_gradient":"","product_card_background":"","product_card_text_color":""}},"featured_product_cqj93T":{"type":"featured-product","blocks":{"title_zLiWVF":{"type":"title","settings":{"heading_tag":"h2"}},"badges_Xk3Yja":{"type":"badges","settings":{}},"price_EYTe8E":{"type":"price","settings":{"show_taxes_notice":false}},"rating_LVh6CR":{"type":"rating","settings":{"show_empty":false}},"separator_RHicDG":{"type":"separator","settings":{}},"buy_buttons_NtLbaw":{"type":"buy_buttons","settings":{"show_payment_button":false,"show_gift_card_recipient":true,"atc_button_background":"","atc_button_text_color":"","payment_button_background":"","payment_button_text_color":""}},"variant_picker_EATDx6":{"type":"variant_picker","settings":{"hide_sold_out_variants":false,"stack_blocks":true,"selector_mode":"block","color_mode":"block","size_chart_page":""}}},"block_order":["title_zLiWVF","badges_Xk3Yja","price_EYTe8E","rating_LVh6CR","separator_RHicDG","buy_buttons_NtLbaw","variant_picker_EATDx6"],"settings":{"full_width":true,"product":"camiseta-all-saints-london-preta","desktop_media_width":55,"desktop_media_layout":"carousel_thumbnails_left","mobile_media_size":"expanded","mobile_carousel_control":"floating_dots","enable_video_autoplay":true,"enable_video_looping":false,"enable_image_zoom":true,"max_image_zoom_level":3,"background":"","background_gradient":"","text_color":"","input_background":"rgba(0,0,0,0)","input_text_color":""}},"featured_collection_pGpwre":{"type":"featured-collection","settings":{"collection":"all-saints","products":[],"full_width":true,"stack_products":false,"show_progress_bar":false,"products_count":10,"products_per_row_mobile":"2","products_per_row_desktop":5,"subheading":"","title":"Coleção All Saints","content":"","link_url":"shopify:\/\/collections\/all-saints","link_text":"Ver todos","background":"","background_gradient":"","text_color":"","heading_color":"","heading_gradient":"","product_card_background":"","product_card_text_color":""}},"featured_product_bEPq9w":{"type":"featured-product","blocks":{"title_r39V9T":{"type":"title","settings":{"heading_tag":"h2"}},"badges_PwAcrx":{"type":"badges","settings":{}},"price_QMTGwe":{"type":"price","settings":{"show_taxes_notice":false}},"rating_aXPmEw":{"type":"rating","settings":{"show_empty":false}},"separator_rVA8ei":{"type":"separator","settings":{}},"buy_buttons_NaT3b8":{"type":"buy_buttons","settings":{"show_payment_button":false,"show_gift_card_recipient":true,"atc_button_background":"","atc_button_text_color":"","payment_button_background":"","payment_button_text_color":""}},"variant_picker_YnEptM":{"type":"variant_picker","settings":{"hide_sold_out_variants":false,"stack_blocks":true,"selector_mode":"block","color_mode":"block","size_chart_page":""}}},"block_order":["title_r39V9T","badges_PwAcrx","price_QMTGwe","rating_aXPmEw","separator_rVA8ei","buy_buttons_NaT3b8","variant_picker_YnEptM"],"settings":{"full_width":true,"product":"pulseira-de-corda-braccialetto","desktop_media_width":55,"desktop_media_layout":"carousel_thumbnails_left","mobile_media_size":"expanded","mobile_carousel_control":"floating_dots","enable_video_autoplay":true,"enable_video_looping":false,"enable_image_zoom":true,"max_image_zoom_level":3,"background":"","background_gradient":"","text_color":"","input_background":"rgba(0,0,0,0)","input_text_color":""}},"featured_collection_8y69rc":{"type":"featured-collection","settings":{"collection":"braceletes","products":[],"full_width":true,"stack_products":false,"show_progress_bar":false,"products_count":10,"products_per_row_mobile":"2","products_per_row_desktop":5,"subheading":"","title":"Para completar seu estilo","content":"","link_url":"shopify:\/\/collections\/braceletes","link_text":"Ver todos","background":"","background_gradient":"","text_color":"","heading_color":"","heading_gradient":"","product_card_background":"","product_card_text_color":""}},"impact-text":{"type":"impact-text","blocks":{"1664424181b38582d5-0":{"type":"item","settings":{"title":"+ de 11.500","subheading":"Clientes satisfeitos desde 2021","content":"","button_text":"","button_url":"","animate_impact_text":false,"animate_impact_text_duration":2}}},"block_order":["1664424181b38582d5-0"],"settings":{"full_width":true,"stack_mobile":true,"text_alignment":"center","impact_text_style":"fill","text_divider":"none","impact_text_size_ratio":1,"background":"","background_gradient":"","heading_text_color":"#2c3e50","heading_gradient":"linear-gradient(180deg, rgba(44, 62, 80, 1), rgba(26, 26, 26, 0) 100%)","text_color":"#2c3e50","button_background":"","button_text_color":""}},"faq":{"type":"faq","blocks":{"166442457738b23caf-0":{"type":"item","settings":{"title":"O frete é grátis?","content":"<p>Sim, todos os nossos pedidos contam com frete grátis, é uma forma de retribuir a sua confiança na Martin.<\/p>"}},"166442457738b23caf-1":{"type":"item","settings":{"title":"Quanto tempo leva para o produto ser enviado?","content":"<p>Todo pedido conta com uma análise antifraude que resguarda o cliente e a loja, a análise dura entre 24h e 48h.<\/p><p>Após a análise, enviaremos seu pedido e enviaremos o rastreio por e-mail, com todos os detalhes.<\/p>"}},"166442457738b23caf-2":{"type":"item","settings":{"title":"Qualquer dúvida?","content":"<p>Você pode entrar em contato pelos canais oficiais Martin em destaque na página de contatos. Será um prazer ajudar!<\/p>"}}},"block_order":["166442457738b23caf-0","166442457738b23caf-1","166442457738b23caf-2"],"settings":{"full_width":false,"subheading":"","title":"FAQ","content":"<p><strong>Perguntas Frequentes<br\/><br\/><\/strong>Nosso suporte está disponível de Segunda a Sexta: 9h-19:00h. Estamos aqui para ajudar. Réplicas de alta qualidade. Produtos importados.<\/p>","team_avatar_width":160,"support_hours":"","answer_time":"","button_text":"","button_url":"","text_position":"start","background":"#ffffff","background_gradient":"","text_color":"#2c3e50","heading_color":"#2c3e50","heading_gradient":"","button_background":"","button_text_color":"","accordion_background":"","accordion_text_color":""}}},"order":["slideshow","image_link_blocks_UeQLWF","featured_collection_3cg9wb","featured_product_Tzzzhq","media_with_text_7UhxY7","featured_product_wrtdeJ","featured_collection_dMxMet","media_with_text_qjXpAi","featured_product_rkzyzE","featured_collection_Gq6bKk","featured_product_zT77PN","featured_collection_3WddJ9","scrolling-text","media_with_text_7XAAGM","featured-collection","featured_product_TCfw8X","featured_collection_KUGzpq","featured_product_cqj93T","featured_collection_pGpwre","featured_product_bEPq9w","featured_collection_8y69rc","impact-text","faq"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "image_KNwgPT": {
+          "type": "image",
+          "settings": {
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "rgba(0,0,0,0)",
+            "background_gradient": "linear-gradient(0deg, rgba(198, 106, 106, 1) 4%, rgba(0, 0, 0, 1) 58%)"
+          }
+        }
+      },
+      "block_order": [
+        "image_KNwgPT"
+      ],
+      "custom_css": [],
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": true,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": true,
+        "cycle_speed": 6,
+        "background": "#2c3e50",
+        "background_gradient": "linear-gradient(60deg, rgba(NaN, NaN, NaN, 0), rgba(23, 29, 33, 1) 98%)"
+      }
+    },
+    "image_link_blocks_UeQLWF": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "item_AJQ9KN": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "shopify://collections/ralph-lauren",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_Bm3EEg": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "shopify://collections/comme-des-garcons-play",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_mrEidy": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "shopify://collections/off-white",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_BVHX4d": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "shopify://collections/shorts",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_LWLcm6": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "shopify://collections/birkenstock",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_88pcrw": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "shopify://collections/yves-saint-laurent",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_UhXfBq": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "shopify://collections/porta-cartoes",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_CX3zHN": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "shopify://collections/bottega-veneta",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_7fFYzE": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_ENCGzQ": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "shopify://collections/loro-piana",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_JcLkdB": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "shopify://collections/yeezy",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_ynTik9": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "shopify://collections/all-saints",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item_AJQ9KN",
+        "item_Bm3EEg",
+        "item_mrEidy",
+        "item_BVHX4d",
+        "item_LWLcm6",
+        "item_88pcrw",
+        "item_UhXfBq",
+        "item_CX3zHN",
+        "item_7fFYzE",
+        "item_ENCGzQ",
+        "item_JcLkdB",
+        "item_ynTik9"
+      ],
+      "settings": {
+        "full_width": true,
+        "block_size": "small",
+        "subheading": "",
+        "title": "Compre por marca",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "featured_collection_3cg9wb": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "",
+        "products": [
+          "birkenstock-sandalia-flat-arizona-black",
+          "bone-boston-red-sox-47brand-azul-marinho",
+          "oculos-martin",
+          "relogio-poedagar",
+          "tenis-yeezy-350-v2-blue-tint",
+          "shorts-masculino-de-praia-vilebrequin-2"
+        ],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 5,
+        "subheading": "",
+        "title": "Mais vendidos",
+        "content": "",
+        "link_url": "shopify://collections/all",
+        "link_text": "Ver todos",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "featured_product_Tzzzhq": {
+      "type": "featured-product",
+      "blocks": {
+        "title_d3Xk8n": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_qxcdg7": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_GKMKB7": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_LAT88b": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_TYMwP9": {
+          "type": "separator",
+          "settings": {}
+        },
+        "buy_buttons_DJgUT9": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "variant_picker_eAec8U": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "block",
+            "size_chart_page": ""
+          }
+        }
+      },
+      "block_order": [
+        "title_d3Xk8n",
+        "badges_qxcdg7",
+        "price_GKMKB7",
+        "rating_LAT88b",
+        "separator_TYMwP9",
+        "buy_buttons_DJgUT9",
+        "variant_picker_eAec8U"
+      ],
+      "settings": {
+        "full_width": true,
+        "product": "moletom-denim-tears-preto-flores-brancas",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "media_with_text_7UhxY7": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_n3VFAP": {
+          "type": "image",
+          "settings": {
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "picto-coupon",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Descubra nossas Camisetas CDG!",
+            "content": "<p>Veja nossas Camisetas CDG, feitas com materiais premium e design exclusivo. Navegue em nosso site e encontre o estilo que mais combina com você. <strong>Frete Grátis em todo o Brasil</strong>. Explore o<em> Old Money</em> agora mesmo!</p>",
+            "link_text": "Ver Coleção",
+            "link_url": "shopify://collections/comme-des-garcons-play",
+            "background": "#2c3e50",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_n3VFAP"
+      ],
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
+    },
+    "featured_product_wrtdeJ": {
+      "type": "featured-product",
+      "blocks": {
+        "title_LgBYrR": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_h73HP3": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_bpr6km": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_KN9dpf": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_JDM6ak": {
+          "type": "separator",
+          "settings": {}
+        },
+        "buy_buttons_rynP3b": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "variant_picker_rCmUYA": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "block",
+            "size_chart_page": ""
+          }
+        }
+      },
+      "block_order": [
+        "title_LgBYrR",
+        "badges_h73HP3",
+        "price_bpr6km",
+        "rating_KN9dpf",
+        "separator_JDM6ak",
+        "buy_buttons_rynP3b",
+        "variant_picker_rCmUYA"
+      ],
+      "settings": {
+        "full_width": true,
+        "product": "camiseta-comme-des-garcons-play-camiseta-com-patch-de-logo",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "featured_collection_dMxMet": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "comme-des-garcons-play",
+        "products": [],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_count": 10,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 5,
+        "subheading": "",
+        "title": "Coleção CDG",
+        "content": "",
+        "link_url": "shopify://collections/comme-des-garcons-play",
+        "link_text": "Ver todos",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "media_with_text_qjXpAi": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_CEXVTm": {
+          "type": "image",
+          "settings": {
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "picto-coupon",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Coleção Tennis Club!",
+            "content": "<p>Descubra a coleção <strong>Tennis Club</strong> na Martin, com roupas e tênis de alta qualidade para quem busca estilo e desempenho. Confeccionadas com materiais premium, essas peças atemporais são perfeitas para tenistas e amantes de um visual sofisticado.</p><p>Navegue pelo nosso site e encontre o modelo ideal para você. Aproveite o Frete Grátis em todo o Brasil e explore a coleção <strong>Tennis Club</strong> agora mesmo!</p>",
+            "link_text": "Ver Coleção",
+            "link_url": "shopify://collections/tennis-club",
+            "background": "#2c3e50",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_CEXVTm"
+      ],
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
+    },
+    "featured_product_rkzyzE": {
+      "type": "featured-product",
+      "blocks": {
+        "title_kH346f": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_RbHbbP": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_88DR8V": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_WE3cKf": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_qywfGT": {
+          "type": "separator",
+          "settings": {}
+        },
+        "buy_buttons_gW3wUK": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "variant_picker_Qxyijr": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "block",
+            "size_chart_page": ""
+          }
+        }
+      },
+      "block_order": [
+        "title_kH346f",
+        "badges_RbHbbP",
+        "price_88DR8V",
+        "rating_WE3cKf",
+        "separator_qywfGT",
+        "buy_buttons_gW3wUK",
+        "variant_picker_Qxyijr"
+      ],
+      "settings": {
+        "full_width": true,
+        "product": "tenis-off-white-vulcanized-canvas",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "featured_collection_Gq6bKk": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "off-white",
+        "products": [],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_count": 10,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 5,
+        "subheading": "",
+        "title": "Coleção Off White",
+        "content": "",
+        "link_url": "shopify://collections/tennis-club",
+        "link_text": "Ver todos",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "featured_product_zT77PN": {
+      "type": "featured-product",
+      "blocks": {
+        "title_QfKX7B": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_NhLYgd": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_7TXi8N": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_yNxXny": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_drMy4X": {
+          "type": "separator",
+          "settings": {}
+        },
+        "buy_buttons_ajn9gV": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "variant_picker_G8p7wC": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "block",
+            "size_chart_page": ""
+          }
+        }
+      },
+      "block_order": [
+        "title_QfKX7B",
+        "badges_NhLYgd",
+        "price_7TXi8N",
+        "rating_yNxXny",
+        "separator_drMy4X",
+        "buy_buttons_ajn9gV",
+        "variant_picker_G8p7wC"
+      ],
+      "settings": {
+        "full_width": true,
+        "product": "tenis-zegna-triple-stitch-navy-grey",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "featured_collection_3WddJ9": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "zegna",
+        "products": [],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_count": 10,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 5,
+        "subheading": "",
+        "title": "Coleção Zegna",
+        "content": "",
+        "link_url": "shopify://collections/zegna",
+        "link_text": "Ver todos",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "scrolling-text": {
+      "type": "scrolling-text",
+      "settings": {
+        "full_width": true,
+        "text": "Fusão entre luxo e elegância",
+        "text_size": "large",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "#6a7c95",
+        "text_gradient": ""
+      }
+    },
+    "media_with_text_7XAAGM": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_43h9QA": {
+          "type": "image",
+          "settings": {
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "picto-coupon",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Pouco De Nós",
+            "content": "<p>Criado com atenção às suas demandas, priorizando satisfação e confiança. Entregamos produtos de máxima qualidade com excelência e segurança, para atender ao seu estilo de vida com um toque de sofisticação.</p><p><em><strong>Quer saber mais sobre nós e nossa loja?</strong></em><br/>Clique no botão abaixo</p>",
+            "link_text": "Ver Coleção",
+            "link_url": "shopify://collections",
+            "background": "#2c3e50",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_43h9QA"
+      ],
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "",
+        "products": [
+          "oculos-martin",
+          "relogio-poedagar",
+          "camiseta-sporty-rich-healthy-and-wellness",
+          "pulseira-de-corda-braccialetto",
+          "bone-de-algodao-us-polo",
+          "bracelete-classe-ajustavel"
+        ],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 5,
+        "subheading": "",
+        "title": "Coleção Martin",
+        "content": "",
+        "link_url": "",
+        "link_text": "Ver todos",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "featured_product_TCfw8X": {
+      "type": "featured-product",
+      "blocks": {
+        "title_EWRUA6": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_fX37BL": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_QWTykn": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_UfU8nE": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_ALrrGQ": {
+          "type": "separator",
+          "settings": {}
+        },
+        "buy_buttons_Agzrqe": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "variant_picker_gneVb8": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "block",
+            "size_chart_page": ""
+          }
+        }
+      },
+      "block_order": [
+        "title_EWRUA6",
+        "badges_fX37BL",
+        "price_QWTykn",
+        "rating_UfU8nE",
+        "separator_ALrrGQ",
+        "buy_buttons_Agzrqe",
+        "variant_picker_gneVb8"
+      ],
+      "settings": {
+        "full_width": true,
+        "product": "birkenstock-sandalia-flat-arizona-black",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "featured_collection_KUGzpq": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "birkenstock",
+        "products": [],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_count": 10,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 5,
+        "subheading": "",
+        "title": "Coleção Birkenstock",
+        "content": "",
+        "link_url": "shopify://collections/birkenstock",
+        "link_text": "Ver todos",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "featured_product_cqj93T": {
+      "type": "featured-product",
+      "blocks": {
+        "title_zLiWVF": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_Xk3Yja": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_EYTe8E": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_LVh6CR": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_RHicDG": {
+          "type": "separator",
+          "settings": {}
+        },
+        "buy_buttons_NtLbaw": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "variant_picker_EATDx6": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "block",
+            "size_chart_page": ""
+          }
+        }
+      },
+      "block_order": [
+        "title_zLiWVF",
+        "badges_Xk3Yja",
+        "price_EYTe8E",
+        "rating_LVh6CR",
+        "separator_RHicDG",
+        "buy_buttons_NtLbaw",
+        "variant_picker_EATDx6"
+      ],
+      "settings": {
+        "full_width": true,
+        "product": "camiseta-all-saints-london-preta",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "featured_collection_pGpwre": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "all-saints",
+        "products": [],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_count": 10,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 5,
+        "subheading": "",
+        "title": "Coleção All Saints",
+        "content": "",
+        "link_url": "shopify://collections/all-saints",
+        "link_text": "Ver todos",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "featured_product_bEPq9w": {
+      "type": "featured-product",
+      "blocks": {
+        "title_r39V9T": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_PwAcrx": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_QMTGwe": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_aXPmEw": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_rVA8ei": {
+          "type": "separator",
+          "settings": {}
+        },
+        "buy_buttons_NaT3b8": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "variant_picker_YnEptM": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "block",
+            "size_chart_page": ""
+          }
+        }
+      },
+      "block_order": [
+        "title_r39V9T",
+        "badges_PwAcrx",
+        "price_QMTGwe",
+        "rating_aXPmEw",
+        "separator_rVA8ei",
+        "buy_buttons_NaT3b8",
+        "variant_picker_YnEptM"
+      ],
+      "settings": {
+        "full_width": true,
+        "product": "pulseira-de-corda-braccialetto",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "featured_collection_8y69rc": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "braceletes",
+        "products": [],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_count": 10,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 5,
+        "subheading": "",
+        "title": "Para completar seu estilo",
+        "content": "",
+        "link_url": "shopify://collections/braceletes",
+        "link_text": "Ver todos",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "impact-text": {
+      "type": "impact-text",
+      "blocks": {
+        "1664424181b38582d5-0": {
+          "type": "item",
+          "settings": {
+            "title": "+ de 11.500",
+            "subheading": "Clientes satisfeitos desde 2021",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "1664424181b38582d5-0"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "#2c3e50",
+        "heading_gradient": "linear-gradient(180deg, rgba(44, 62, 80, 1), rgba(26, 26, 26, 0) 100%)",
+        "text_color": "#2c3e50",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "faq": {
+      "type": "faq",
+      "blocks": {
+        "166442457738b23caf-0": {
+          "type": "item",
+          "settings": {
+            "title": "O frete é grátis?",
+            "content": "<p>Sim, todos os nossos pedidos contam com frete grátis, é uma forma de retribuir a sua confiança na Martin.</p>"
+          }
+        },
+        "166442457738b23caf-1": {
+          "type": "item",
+          "settings": {
+            "title": "Quanto tempo leva para o produto ser enviado?",
+            "content": "<p>Todo pedido conta com uma análise antifraude que resguarda o cliente e a loja, a análise dura entre 24h e 48h.</p><p>Após a análise, enviaremos seu pedido e enviaremos o rastreio por e-mail, com todos os detalhes.</p>"
+          }
+        },
+        "166442457738b23caf-2": {
+          "type": "item",
+          "settings": {
+            "title": "Qualquer dúvida?",
+            "content": "<p>Você pode entrar em contato pelos canais oficiais Martin em destaque na página de contatos. Será um prazer ajudar!</p>"
+          }
+        }
+      },
+      "block_order": [
+        "166442457738b23caf-0",
+        "166442457738b23caf-1",
+        "166442457738b23caf-2"
+      ],
+      "settings": {
+        "full_width": false,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "<p><strong>Perguntas Frequentes<br/><br/></strong>Nosso suporte está disponível de Segunda a Sexta: 9h-19:00h. Estamos aqui para ajudar. Réplicas de alta qualidade. Produtos importados.</p>",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "start",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "#2c3e50",
+        "heading_color": "#2c3e50",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "image_link_blocks_UeQLWF",
+    "featured_collection_3cg9wb",
+    "featured_product_Tzzzhq",
+    "media_with_text_7UhxY7",
+    "featured_product_wrtdeJ",
+    "featured_collection_dMxMet",
+    "media_with_text_qjXpAi",
+    "featured_product_rkzyzE",
+    "featured_collection_Gq6bKk",
+    "featured_product_zT77PN",
+    "featured_collection_3WddJ9",
+    "scrolling-text",
+    "media_with_text_7XAAGM",
+    "featured-collection",
+    "featured_product_TCfw8X",
+    "featured_collection_KUGzpq",
+    "featured_product_cqj93T",
+    "featured_collection_pGpwre",
+    "featured_product_bEPq9w",
+    "featured_collection_8y69rc",
+    "impact-text",
+    "faq"
+  ]
+}
