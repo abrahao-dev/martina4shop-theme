@@ -101,6 +101,18 @@
             "overlay_opacity": 0
           }
         },
+        "item_97TDc6": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
         "item_88pcrw": {
           "type": "item",
           "settings": {
@@ -119,6 +131,7 @@
         "item_AJQ9KN",
         "item_mrEidy",
         "item_LWLcm6",
+        "item_97TDc6",
         "item_88pcrw"
       ],
       "settings": {
