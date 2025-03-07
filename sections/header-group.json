@@ -56,7 +56,8 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo_max_width": 120,
+        "logo": "shopify://shop_images/Flux_Dev_A_bold_and_modern_logo_for_a_geek_apparel_brand_calle_2-removebg-preview.png",
+        "logo_max_width": 300,
         "logo_mobile_max_width": 120,
         "menu": "main-menu",
         "sidebar_menu": "",
