@@ -54,7 +54,7 @@
     "header": {
       "type": "header",
       "custom_css": [
-        "header {font-color: Black;}"
+        ".v-stack gap-4 {font-color: #00000;}"
       ],
       "settings": {
         "enable_sticky": true,
