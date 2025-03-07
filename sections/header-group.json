@@ -1,1 +1,83 @@
-{"type":"header","name":"Header group","sections":{"announcement-bar":{"type":"announcement-bar","blocks":{"453fecbe-5ec2-4a5a-8b1b-dcbda859b6e9":{"type":"message","settings":{"text":"Instagram Oficial @use.martin4shop","url":"https:\/\/www.instagram.com\/use.martin4shop\/"}},"953bcb16-4d27-445a-b44b-461797130635":{"type":"message","settings":{"text":"Dúvidas? Entre em contato pelo WhatsApp","url":"https:\/\/api.whatsapp.com\/send?phone=55119406434167&text=Olá%2C%20Gostaria%20de%20saber%20mais%20informações%20sobre%20a%20loja..."}},"message":{"type":"message","settings":{"text":"Frete Grátis para todo Brasil!","url":""}}},"block_order":["453fecbe-5ec2-4a5a-8b1b-dcbda859b6e9","953bcb16-4d27-445a-b44b-461797130635","message"],"settings":{"enable_sticky":false,"text_size":"text-base","navigation_mode":"scrolling","scrolling_speed":10,"background":"#ffffff","background_gradient":"","text_color":"#2c3e50"}},"header":{"type":"header","settings":{"enable_sticky":true,"hide_on_scroll":false,"logo":"shopify:\/\/shop_images\/logo-martin-branco.png","logo_max_width":120,"logo_mobile_max_width":120,"menu":"main-menu","sidebar_menu":"","secondary_menu":"","menu_open_trigger":"click","opening_from":"bottom","layout":"logo_left_navigation_center","show_social_media":true,"show_locale_selector":false,"show_country_selector":false,"show_country_flag":false,"show_country_name":false,"transparent_header_text_color":"#ffffff","reduce_padding":false,"background_opacity":85,"background_blur_radius":10}}},"order":["announcement-bar","header"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "type": "header",
+  "name": "Header group",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "453fecbe-5ec2-4a5a-8b1b-dcbda859b6e9": {
+          "type": "message",
+          "settings": {
+            "text": "Instagram Oficial @nerdshirts.oficial",
+            "url": "https://www.instagram.com/nerdshirts.oficial/"
+          }
+        },
+        "953bcb16-4d27-445a-b44b-461797130635": {
+          "type": "message",
+          "settings": {
+            "text": "Dúvidas? Entre em contato pelo WhatsApp",
+            "url": "https://api.whatsapp.com/send?phone=55119406434167&text=Olá%2C%20Gostaria%20de%20saber%20mais%20informações%20sobre%20a%20loja..."
+          }
+        },
+        "message": {
+          "type": "message",
+          "settings": {
+            "text": "Frete Grátis para todo Brasil!",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "453fecbe-5ec2-4a5a-8b1b-dcbda859b6e9",
+        "953bcb16-4d27-445a-b44b-461797130635",
+        "message"
+      ],
+      "settings": {
+        "enable_sticky": false,
+        "text_size": "text-base",
+        "navigation_mode": "scrolling",
+        "scrolling_speed": 10,
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "#2c3e50"
+      }
+    },
+    "header": {
+      "type": "header",
+      "settings": {
+        "enable_sticky": true,
+        "hide_on_scroll": false,
+        "logo_max_width": 120,
+        "logo_mobile_max_width": 120,
+        "menu": "main-menu",
+        "sidebar_menu": "",
+        "secondary_menu": "",
+        "menu_open_trigger": "click",
+        "opening_from": "bottom",
+        "layout": "logo_left_navigation_center",
+        "show_social_media": true,
+        "show_locale_selector": false,
+        "show_country_selector": false,
+        "show_country_flag": false,
+        "show_country_name": false,
+        "transparent_header_text_color": "#ffffff",
+        "reduce_padding": false,
+        "background_opacity": 85,
+        "background_blur_radius": 10
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
+}
