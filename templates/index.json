@@ -1066,7 +1066,7 @@
           "type": "item",
           "settings": {
             "title": "O frete é grátis?",
-            "content": "<p>Sim, todos os nossos pedidos contam com frete grátis, é uma forma de retribuir a sua confiança na Martin.</p>"
+            "content": "<p>Sim, todos os nossos pedidos contam com frete grátis, é uma forma de retribuir a sua confiança na NerdShirts.</p>"
           }
         },
         "166442457738b23caf-1": {
@@ -1080,7 +1080,7 @@
           "type": "item",
           "settings": {
             "title": "Qualquer dúvida?",
-            "content": "<p>Você pode entrar em contato pelos canais oficiais Martin em destaque na página de contatos. Será um prazer ajudar!</p>"
+            "content": "<p>Você pode entrar em contato pelos canais oficiais NerdShirts em destaque na página de contatos. Será um prazer ajudar!</p>"
           }
         }
       },
