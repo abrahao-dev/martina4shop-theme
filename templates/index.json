@@ -29,7 +29,7 @@
             "overlay_color": "#000000",
             "overlay_opacity": 0,
             "background": "rgba(0,0,0,0)",
-            "background_gradient": "linear-gradient(0deg, rgba(248, 58, 58, 1), rgba(195, 26, 26, 1) 4%, rgba(181, 51, 25, 1) 16%, rgba(117, 15, 15, 1) 32%, rgba(0, 0, 0, 1) 58%)"
+            "background_gradient": "linear-gradient(0deg, rgba(248, 58, 58, 1), rgba(209, 34, 34, 1) 4%, rgba(181, 27, 27, 1) 16%, rgba(117, 15, 15, 1) 32%, rgba(0, 0, 0, 1) 58%)"
           }
         }
       },
