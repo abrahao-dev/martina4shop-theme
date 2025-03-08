@@ -264,7 +264,7 @@
     "featured_collection_dMxMet": {
       "type": "featured-collection",
       "settings": {
-        "collection": "comme-des-garcons-play",
+        "collection": "animes",
         "products": [],
         "full_width": true,
         "stack_products": false,
@@ -273,7 +273,7 @@
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 5,
         "subheading": "",
-        "title": "Coleção CDG",
+        "title": "Coleção Anime",
         "content": "",
         "link_url": "shopify://collections/comme-des-garcons-play",
         "link_text": "Ver todos",
