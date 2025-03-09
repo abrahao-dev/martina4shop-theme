@@ -263,7 +263,6 @@
     },
     "featured_collection_dMxMet": {
       "type": "featured-collection",
-      "disabled": true,
       "settings": {
         "collection": "animes",
         "products": [],
