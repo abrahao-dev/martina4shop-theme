@@ -263,6 +263,7 @@
     },
     "featured_collection_dMxMet": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "collection": "animes",
         "products": [],
@@ -314,6 +315,7 @@
       "block_order": [
         "image_CEXVTm"
       ],
+      "disabled": true,
       "settings": {
         "full_width": false,
         "spacing": "small"
@@ -447,6 +449,7 @@
     },
     "featured_collection_KUGzpq": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "collection": "birkenstock",
         "products": [],
