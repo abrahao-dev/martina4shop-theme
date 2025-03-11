@@ -121,9 +121,10 @@
         "item_88pcrw": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/9.png",
             "stretch_image": true,
             "link_text": "",
-            "link_url": "shopify://collections/yves-saint-laurent",
+            "link_url": "shopify://collections/death-note",
             "background": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
