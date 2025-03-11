@@ -169,6 +169,19 @@
             "overlay_color": "#000000",
             "overlay_opacity": 0
           }
+        },
+        "item_CPTKeJ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/13.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "shopify://collections/o-senhor-dos-aneis",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
         }
       },
       "block_order": [
@@ -180,7 +193,8 @@
         "item_LWLcm6",
         "item_97TDc6",
         "item_88pcrw",
-        "item_HhTDJC"
+        "item_HhTDJC",
+        "item_CPTKeJ"
       ],
       "settings": {
         "full_width": true,
