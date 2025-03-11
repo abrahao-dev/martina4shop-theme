@@ -82,9 +82,10 @@
         "item_mrEidy": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/4_9d9ad323-08db-4250-bb0f-af2e8982820e.png",
             "stretch_image": true,
             "link_text": "",
-            "link_url": "shopify://collections/off-white",
+            "link_url": "shopify://collections/one-piece",
             "background": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
