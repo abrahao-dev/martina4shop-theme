@@ -92,6 +92,32 @@
             "overlay_opacity": 0
           }
         },
+        "item_8EBGLA": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/10.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "shopify://collections/marvel",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_dbWUcK": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/11.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "shopify://collections/dc-comics",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
         "item_LWLcm6": {
           "type": "item",
           "settings": {
@@ -143,30 +169,18 @@
             "overlay_color": "#000000",
             "overlay_opacity": 0
           }
-        },
-        "item_8EBGLA": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/10.png",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "shopify://collections/marvel",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
         }
       },
       "block_order": [
         "item_ckHtXe",
         "item_AJQ9KN",
         "item_mrEidy",
+        "item_8EBGLA",
+        "item_dbWUcK",
         "item_LWLcm6",
         "item_97TDc6",
         "item_88pcrw",
-        "item_HhTDJC",
-        "item_8EBGLA"
+        "item_HhTDJC"
       ],
       "settings": {
         "full_width": true,
