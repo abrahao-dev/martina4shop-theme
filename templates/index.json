@@ -95,9 +95,10 @@
         "item_LWLcm6": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/5.png",
             "stretch_image": true,
             "link_text": "",
-            "link_url": "shopify://collections/birkenstock",
+            "link_url": "shopify://collections/dragon-ball",
             "background": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
@@ -107,9 +108,10 @@
         "item_97TDc6": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/3_dda4acc6-de16-42cc-861b-100c5401dad5.png",
             "stretch_image": true,
             "link_text": "",
-            "link_url": "",
+            "link_url": "shopify://collections/jujutsu-kaisen",
             "background": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
