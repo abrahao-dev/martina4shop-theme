@@ -102,7 +102,7 @@
           "type": "text",
           "settings": {
             "title": "SAC",
-            "content": "<p><strong>Email:</strong> contato@nerdshirts.com.br</p><p><strong>Whatsapp:</strong> (11) 99243-1835</p><p><br/><a href=\"https://docs.google.com/presentation/d/1vGr4Qhs9Q_JIb6qnHpjwxaNDEAf06B3srRSxKZtBqfs/mobilepresent?slide=id.p\" target=\"_blank\" title=\"https://docs.google.com/presentation/d/1vGr4Qhs9Q_JIb6qnHpjwxaNDEAf06B3srRSxKZtBqfs/mobilepresent?slide=id.p\">Link</a></p>",
+            "content": "<p><strong>Email:</strong> contato@nerdshirts.com.br</p><p><strong>Whatsapp:</strong> (11) 99243-1835</p>",
             "enable_follow_on_shop": true
           }
         },
