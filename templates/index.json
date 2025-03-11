@@ -403,6 +403,7 @@
         "image_43h9QA": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Leonardo_Phoenix_10_Stylish_Modern_Image_2.jpg",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
