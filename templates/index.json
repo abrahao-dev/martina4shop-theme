@@ -56,9 +56,10 @@
         "item_ckHtXe": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/1_9d97ebbd-fc15-4a9f-9096-6ce2bec41cc5.png",
             "stretch_image": true,
             "link_text": "",
-            "link_url": "",
+            "link_url": "shopify://collections/demon-slayer",
             "background": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
