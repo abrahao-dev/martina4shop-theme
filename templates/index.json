@@ -69,9 +69,10 @@
         "item_AJQ9KN": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/2_fe143472-f134-4b44-997f-e80cabbbaf5b.png",
             "stretch_image": true,
             "link_text": "",
-            "link_url": "shopify://collections/ralph-lauren",
+            "link_url": "shopify://collections/solo-leveling",
             "background": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
