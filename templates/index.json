@@ -15,6 +15,27 @@
         "image_KNwgPT": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Vista_o_poder_do_seu_personagem_favorito.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "rgba(0,0,0,0)",
+            "background_gradient": "linear-gradient(0deg, rgba(248, 58, 58, 1), rgba(209, 34, 34, 1) 4%, rgba(181, 27, 27, 1) 16%, rgba(117, 15, 15, 1) 32%, rgba(0, 0, 0, 1) 58%)"
+          }
+        },
+        "image_MinPAN": {
+          "type": "image",
+          "settings": {
             "image": "shopify://shop_images/banner-hero_90e08ddd-2f50-4d4e-9e7d-a365084535ad.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
@@ -35,7 +56,8 @@
         }
       },
       "block_order": [
-        "image_KNwgPT"
+        "image_KNwgPT",
+        "image_MinPAN"
       ],
       "custom_css": [],
       "settings": {
